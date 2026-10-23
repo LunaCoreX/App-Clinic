@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dominio-a-definir.com.br/sitemap.xml
